@@ -1,4 +1,4 @@
-# Reddish - A Reddit Clone - MERN ( Developed by Akash Vinod Bhambere )
+# Reddish - A Reddit Clone - MERN ( Developed by Akash Bhambere )
 
 [Reddit](https://www.reddit.com) clone (a social media site) made w/ MERN stack & Redux.
 
