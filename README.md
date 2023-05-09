@@ -44,7 +44,7 @@
 - Responsive UI for all screens
 
 ## Screenshots
-![Screenshot](Add Post.png)
+[![Screenshot](Add Post.png)](https://github.com/imcoder16/Reddish-A-Reddit-Clone/blob/7aad195612c10a305a6b297065004534f885b396/Add%20Post.png)
 
 ## Usage
 
