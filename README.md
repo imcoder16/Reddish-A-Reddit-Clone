@@ -2,12 +2,6 @@
 
 [Reddit](https://www.reddit.com) clone (a social media site) made w/ MERN stack & Redux.
 
-## Demo
-
-Deployed on Heroku
-
-## Built using
-
 #### Front-end
 
 - [ReactJS](https://reactjs.org/) - Frontend framework
@@ -48,9 +42,6 @@ Deployed on Heroku
 - Loading spinners for relevant fetching processes
 - Dark mode toggle w/ local storage save
 - Responsive UI for all screens
-
-## Screenshots
-
 
 ## Usage
 
