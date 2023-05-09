@@ -43,6 +43,9 @@
 - Dark mode toggle w/ local storage save
 - Responsive UI for all screens
 
+## Screenshots
+![Screenshot](Add Post.png)
+
 ## Usage
 
 Notes:
