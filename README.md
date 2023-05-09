@@ -2,28 +2,20 @@
 
 [Reddit](https://www.reddit.com) clone (a social media site) made w/ MERN stack & Redux.
 
-#### Front-end
+## 🖥️ Tech Stack
+**Frontend:**
 
-- [ReactJS](https://reactjs.org/) - Frontend framework
-- [Redux w/ useDispatch & useSelector hooks](https://redux.js.org/) - For state management
-- [Redux Thunk](https://github.com/reduxjs/redux-thunk) - For asynchronous actions
-- [React Router](https://reactrouter.com/) - For general routing & navigation
-- [Formik](https://formik.org/) - For flexible forms
-- [Material-UI w/ lots of CSS customisations](https://material-ui.com/) - UI library
-- [Yup](https://github.com/jquense/yup) - For form validation
+![reactjs](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
+![react-router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)&nbsp;
+![redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)&nbsp;
 
-#### Back-end
+**Backend:**
 
-- [Node.js](https://nodejs.org/en/) - Runtime environment for JS
-- [Express.js](https://expressjs.com/) - Node.js framework, makes process of building APIs easier & faster
-- [MongoDB](https://www.mongodb.com/) - Database to store document-based data
-- [Mongoose](https://mongoosejs.com/) - MongoDB object modeling for Node.js
-- [Cloudinary](https://cloudinary.com/) - For image uploading & related API
-- [JSON Web Token](https://jwt.io/) - A standard to secure/authenticate HTTP requests
-- [Bcrypt.js](https://www.npmjs.com/package/bcryptjs) - For hashing passwords
-- [Validator.js](https://www.npmjs.com/package/validator) - For validation of JSON data
-- [Mongoose Unique Validator](https://www.npmjs.com/package/mongoose-unique-validator) - Plugin for better error handling of unique fields within Mongoose schema
-- [Dotenv](https://www.npmjs.com/package/dotenv) - To load environment variables from a .env file
+![nodejs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
+![expressjs](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)&nbsp;
+![mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
+![jwt](	https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)&nbsp;
+
 
 ## Features
 
@@ -44,7 +36,19 @@
 - Responsive UI for all screens
 
 ## Screenshots
-Please refer images from repository
+<table>
+  <tr>
+    <td><img src="https://github.com/imcoder16/Reddish-A-Reddit-Clone/blob/main/Add%20Post.png" alt="mockup" /></td>
+    <td><img src="https://github.com/imcoder16/Reddish-A-Reddit-Clone/blob/main/Create%20Reddit.png" alt="mockups" /></td>
+  </tr>
+    <tr>
+    <td><img src="https://github.com/imcoder16/Reddish-A-Reddit-Clone/blob/main/Dark%20Theme.png" alt="mockup" /></td>
+    <td><img src="https://github.com/imcoder16/Reddish-A-Reddit-Clone/blob/main/Homepage.PNG" alt="mockups" /></td>
+  </tr>
+    <tr>
+    <td><img src="https://github.com/imcoder16/Reddish-A-Reddit-Clone/blob/main/Post.png" alt="mockup" /></td>
+  </tr>
+</table>
 
 ## Usage
 
@@ -86,3 +90,11 @@ cd server
 npm install
 npm run dev
 ```
+
+<h2>📬 Contact</h2>
+
+If you want to contact me, you can reach me through below handles.
+
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/akash-bhambere-6307011ab)
+
+© 2022 Akash Bhambere
